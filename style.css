@@ -1,0 +1,329 @@
+/*
+ Theme Name:   YooTheme Child
+ Theme URI:    
+ Description:  YooTheme Child
+ Author:       John Doe
+ Author URI:   http://www.medialabpro.com.com
+ Template:     yootheme
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  yoothemechild
+*/
+
+#nav_menu-2 a {
+	color: #ff4400 !important;
+}
+
+.fp-playlists .el-title {
+	font-size: 16px !important;
+	height: 30px;
+}
+
+.directorist-listing-card .directorist-listing-title {
+	font-size: 16px !important;
+	height: 38px;
+	text-align: center;
+	font-weight: 300 !important;
+}
+
+#gform_submit_button_2 {
+	background: #ff6600 !important;
+	border: none;
+	color: #fff;
+	text-align: center;
+	display: table;
+	margin: 0 auto;
+	font-size: 24px;
+	padding: 10px 20px;
+	border-radius: 6px;
+	text-shadow: 1px 1px 3px #000;
+	border: 2px solid #ff8800;
+	box-shadow: 1px 1px 3px #000;
+}
+
+.fp-sponsorers a {
+	color: #009acc;
+}
+
+.page-id-2931 .uk-navbar-container {
+	background: #fff !important;
+}
+
+.page-id-2931 .tm-toolbar {
+	background: #ccc;
+}
+
+.page-id-2931 .mec-search-form {
+	background: #fff !important;
+	border: none;
+}
+
+.page-id-2931 .mec-sl-folder {
+	background: #ddd !important;
+}
+
+.page-id-2931 select {
+	background: #efefef !important;
+	color: #333 !important;
+}
+
+.page-id-2931 .mec-month-divider span {
+	color: #f60 !important;
+}
+
+.page-id-2931 .mec-color-hover {
+	color: #0093d0 !important;
+}
+
+.page-id-2931 .mec-color-hover:hover {
+	color: #0055d0 !important;
+}
+
+.page-id-2931 .mec-localtime-wrap {
+	color: #f60 !important;
+	font-size: 22px !important;
+	font-weight: 900 !important;
+	line-height: 40px;
+}
+
+.page-id-2931 .event-da {
+	color: #f60 !important;
+}
+
+.page-id-2931 .mec-time-details {
+	color: #666;
+}
+
+.mec-wrap .mec-totalcal-box .mec-totalcal-view span, .mec-wrap .mec-totalcal-box input, .mec-wrap .mec-totalcal-box select {
+	font-size: 18px;
+}
+
+.mec-event-date {
+	font-size: 28px !important;
+}
+
+.mec-event-title {
+	font-size: 24px !important;
+}
+
+.event-color {
+	display: none;
+}
+
+.mec-month-divider span {
+	color: #fd0 !important;
+        border-bottom: 4px solid #111 !important;
+}
+
+#mec_fes_form {
+	max-width: none;
+}
+
+.mec-fes-form .mec-fes-form-cntt {
+	max-width: 65%;
+}
+
+.mec-fes-form .mec-fes-form-sdbr {
+	width: 30%;
+}
+
+div.mce-panel {
+	background: #000 !important;
+	border: 0px !important;
+	box-shadow: 0 2px 6px -3px #353535 !important;
+}
+
+#wp-mec_fes_content-editor-tools {
+	display: none;
+}
+
+.mec-fes-form input[type="text"]#mec_fes_title {
+	background-color: #000 !important;
+	color: #fff !important;
+	max-width: 774px !important;
+}
+
+.mec-title label {
+	font-size: 18px !important;
+	font-weight: 700;
+}
+
+#mec_meta_box_event_note textarea {
+	max-width: none;
+	width: 97% !important;
+}
+
+#mec_meta_box_date_form div:nth-of-type(5), #mec_meta_box_date_form div:nth-of-type(6), #mec_meta_box_date_form div:nth-of-type(7), #mec_meta_box_date_form div:nth-of-type(8) {
+	display: none;
+}
+
+#mec_meta_box_repeat_form {
+	display: none;
+}
+
+#mec-event-links div:nth-of-type(1) {
+	display: none;
+}
+
+#mec_more_info_title {
+	display: none;
+}
+
+#mec-event-links > .mec-form-row label {
+	display: none;
+}
+
+.description {
+	display: none;
+}
+
+.mec-google-recaptcha {
+	display: table !important;
+	margin: 0 auto;
+}
+.mec-fes-sub-button {
+	width: 300px;
+	display: table !important;
+	margin: 0 auto !important;
+}
+
+#mceu_28-body div:nth-of-type(1), #mceu_28-body div:nth-of-type(6), #mceu_28-body div:nth-of-type(7), #mceu_28-body div:nth-of-type(8), #mceu_28-body div:nth-of-type(9), #mceu_28-body div:nth-of-type(10), #mceu_28-body div:nth-of-type(11), #mceu_28-body div:nth-of-type(13) {
+	display: none;
+}
+
+.mec-time-details {
+	color: #ffdd00;
+	font-size: 18px;
+}
+
+.mec-event-detail {
+	color: #f40 !important;
+}
+
+#directorist-single-listing-slider {
+	display: none;
+}
+
+.uk-section-muted h1,
+.uk-section-muted p,
+.uk-section-muted .gsection_description {
+	color: #000;
+}
+
+.page-id-5024 .gsection_title {
+	display: none;
+}
+
+.blueish {
+	color: #009acc;
+}
+
+.blue-box {
+	background: #009acc;
+	padding: 20px 0;
+}
+
+#address {
+	display: none;
+}
+
+.directorist-advanced-filter__advanced--pricing {
+	display: none;
+}
+
+.directorist-search-field label {
+	color: #000 !important;
+	font-size: 18px;
+}
+
+.directorist-select2-addons-area {
+	color: #333 !important;
+}
+
+.directorist-info-item {
+	color: #000 !important;
+}
+
+.directorist-listing-details__listing-title {
+	color: #000;
+}
+
+.atbdp-require-login,
+.directorist-action-report-not-loggedin {
+	color: #888 !important;
+}
+
+.directorist-listing-details-tagline {
+	font-size: 18px !important;
+	margin-top: 4px;
+}
+
+.directorist-info-item a {
+	color: #000 !important;
+}
+
+.directorist-single-tag-list a {
+	color: #444 !important;
+}
+
+.playlist-info {
+	min-height: 300px;
+}
+
+.plinfo-left {
+	float: left;
+	width: 30%;
+}
+
+.pl-contact {
+	background: #ff6600;
+	width: 60%;
+	display: table;
+	margin: 20px auto !important;
+	text-align: center;
+	padding: 20px;
+	border-radius: 4px;
+	color: #fff !important;
+	font-size: 18px !important;
+}
+
+.pl-cta {
+	margin: 20px auto;
+}
+
+.pl-cta a {
+	background: rgba(255,255,255,0.4);
+	border: 1px solid #fff;
+	padding: 10px 20px;
+	border-radius: 4px;
+	
+}
+
+.pl-cta a:hover {
+	background: rgba(255,255,255,1);
+	border: 1px solid #000;
+	color: #000;
+}
+
+
+.iframe-playlists {
+	margin: 0 0 2px;
+}
+
+.select2-container--default li{ color: #444752 !important }
+
+.directorist-listing-single__meta--right.download-link a{
+	color: #7a82a6
+}
+
+.directorist-alert-warning a {
+	color: #000 !important;
+	text-decoration: underline !important;
+}
+
+.directorist-alert-warning a:hover {
+	color: #333 !important;
+	text-decoration: underline !important;
+}
