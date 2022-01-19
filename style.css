@@ -327,3 +327,10 @@ div.mce-panel {
 	color: #333 !important;
 	text-decoration: underline !important;
 }
+
+.directorist-user-dashboard__nav 
+.directorist-tab__nav__action
+.directorist-btn--add-listing
+{
+	display: none;
+}
